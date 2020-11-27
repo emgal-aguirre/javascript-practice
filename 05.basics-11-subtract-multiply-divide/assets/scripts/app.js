@@ -10,6 +10,11 @@ function createAndWriteOutput(operator, resultBeforeCalc, calcNumber) {
   outputResult(currentResult, calcDescription);
 }
 
+/*
+fsjsdlfjsd
+fdsnlkfnjdskl
+*/
+
 function add() {
   const enteredNumber = getUserNumberInput();
   const initialResult = currentResult;
