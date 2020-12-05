@@ -38,8 +38,11 @@ function calculateResult(calculationType) {
     return;
   }
 
-  if (calculationType === 'Add' || calculationType === 'Subtract')
-    const enteredNumber = getUserNumberInput();
+if (
+  calculationType === 'Add' || 
+  calculationType === || "Subtract")
+
+  const enteredNumber = getUserNumberInput();
   const initialResult = currentResult;
   let mathOperator;
 
