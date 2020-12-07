@@ -1,7 +1,7 @@
 // some const are in all caps with underscores, to express they will never be changed or reasign. Individual practice and not a requirement.
 
 const ATTACK_VALUE = 10;
-const MONSTER_ATTACK_VALUE = 12;
+const MONSTER_ATTACK_VALUE = 20;
 const STRONG_ATTACK_VALUE = 17;
 const HEAL_VALUE = 15;
 

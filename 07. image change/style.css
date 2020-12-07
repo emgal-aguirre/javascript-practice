@@ -1,0 +1,35 @@
+.container {
+  width: 1000px;
+  height: 500px;
+  background-color: blue;
+  margin: auto;
+  text-align: center;
+}
+
+.normal {
+  width: 500px;
+  height: 500px;
+  background: url('monster1.png') no-repeat;
+  float: left;
+}
+
+.attack {
+  width: 500px;
+  height: 500px;
+  background: url('monster2.png') no-repeat;
+  float: left;
+}
+
+.playerNormal {
+  width: 500px;
+  height: 500px;
+  background: url('player1.png') no-repeat;
+  float: right;
+}
+
+.playerAttack {
+  width: 500px;
+  height: 500px;
+  background: url('player2.png') no-repeat;
+  float: right;
+}

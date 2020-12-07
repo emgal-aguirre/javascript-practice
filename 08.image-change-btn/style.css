@@ -1,0 +1,10 @@
+.container {
+  background-color: cornflowerblue;
+  margin: auto;
+  text-align: center;
+}
+
+.monster-row {
+  margin: 10px;
+  margin-top: 20px;
+}
